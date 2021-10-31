@@ -1,5 +1,6 @@
 # proj2
-
+--
+# 慕课网 vue-cli全集 练习 https://www.imooc.com/learn/1173
 ## Project setup
 ```
 npm install

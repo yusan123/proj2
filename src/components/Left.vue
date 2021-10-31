@@ -19,10 +19,10 @@
     export default {
         methods:{
             menu1:function() {
-                Msg.$emit("val","11111");
+                Msg.$emit("val","1");
             },
             menu2:function() {
-                Msg.$emit("val","22222");
+                Msg.$emit("val","2");
             }
         }
     }
@@ -40,5 +40,6 @@
         margin-top: 4px;
         background-color: white;
         line-height: 50px;
+        cursor: pointer;
     }
 </style>

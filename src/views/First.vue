@@ -34,10 +34,11 @@
         width: 100px;
         float: left;
         margin-right: 10px;
+        margin-left: 100px;
     }
 
     .right {
-        width: 1200px;
+        width: 1000px;
         float: left;
         margin-left: 10px;
     }
@@ -47,7 +48,7 @@
     }
     .top img{
         height: 300px;
-        width: 1200px;
+        width: 1000px;
     }
     .left,.right{
         background-color: #f5f5f5;
